@@ -49,7 +49,6 @@
 <br />
 <br />
 
-![Anandu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandukch&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
 
 ![Anandu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anandukch&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
