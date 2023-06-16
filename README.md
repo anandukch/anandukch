@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi there, I'm Anandu</h1>
 
-- 🔭 I’m currently learning and working on Block chain and data science
-- :hammer: I'm always looking forward to build new and exciting stuff.
+- 🔭 I’m currently learning and working on everything.
+- :hammer: I'm always looking forward to building new and exciting stuff.
 
 <p align="left">
   <a href="mailto:anandukch@gmail.com" target="_blank">
@@ -48,7 +48,6 @@
 <br />
 <br />
 <br />
-
 
 ![Anandu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anandukch&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
