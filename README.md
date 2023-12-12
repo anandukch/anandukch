@@ -1,7 +1,9 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi there, I'm Anandu</h1>
 
 - 🔭 I’m currently learning and working on everything.
-- :hammer: I'm always looking forward to building new and exciting stuff.
+-  Ask me about MERN, Backend dev, ML.
+-  😄 Uses linux.
+
 
 <p align="left">
   <a href="mailto:anandukch@gmail.com" target="_blank">
@@ -12,10 +14,13 @@
   </a>
 </p>
 
+### Languages and Tools
+</p>
 
-### Languages and Tools:
+[![Anandu's Skills](https://skillicons.dev/icons?i=python,js,ts,django,nodejs,fastapi,nestjs,linux,mongodb,docker,postgres,cpp,express,react,tensorflow,git&theme=dark)](https://skillicons.dev)
 
-<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+<br>
+<!-- <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 
 <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img align="left" alt="Nestjs" width="26px" src="https://nestjs.com/img/logo-small.svg" />
@@ -43,7 +48,7 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> -->
 
 <br />
 <br />
