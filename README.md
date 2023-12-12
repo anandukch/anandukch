@@ -22,7 +22,7 @@
 <br>
 <!-- <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 
-<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<!-- <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img align="left" alt="Nestjs" width="26px" src="https://nestjs.com/img/logo-small.svg" />
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
@@ -48,12 +48,17 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> -->
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> --> 
+
+![Anandu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anandukch&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+ 
+
+<!-- ![Anandu's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anandukch&theme=dark&show_icons=true&count_private=true&include_all_commits=true&) -->
+
+![Anandu's Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anandukch&layout=compact&theme=dark)
 
 <br />
-<br />
-<br />
 
-![Anandu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anandukch&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+<!-- ![Anandu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anandukch&theme=radical&date_format=M%20j%5B%2C%20Y%5D) -->
 
-![Anandu's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandukch&layout=compact&theme=tokyonight)
+<!-- ![Anandu's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandukch&layout=compact&theme=tokyonight) -->
