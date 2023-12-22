@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **MLOPs**
 
-- 👨‍💻 All of my projects are available at [https://anandukch.me](anandukch.me)
+- 👨‍💻 All of my projects are available at [anandukch.me](https://anandukch.me)
 
 - 💬 Ask me about **Nodejs, Python, AWS, Devops**
 
