@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anandu</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<!--<h3 align="center">A passionate Backend developer</h3> -->
 
-- 🔭 I’m currently working on **everything**
+<!-- - 🔭 I’m currently working on **everything**-->
 
-- 🌱 I’m currently learning **Ansible, AI/ML**
+ - 🌱 I’m currently learning **Ansible, AI/ML, Golang** 
 
 - 🤝 I’m looking for help with **MLOPs**
 
-- 👨‍💻 All of my projects are available at [anandukch.me](https://anandukch.me)
+<!-- - 👨‍💻 All of my projects are available at [anandukch.me](https://anandukch.me) -->
 
 - 💬 Ask me about **Nodejs, Python, AWS, Devops**
 
