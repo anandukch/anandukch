@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anandu</h1>
 <!--<h3 align="center">A passionate Backend developer</h3> -->
 
-<!-- - 🔭 I’m currently working on **everything**-->
+ - 🔭 I’m currently working on **Something that make me something**
 
  - 🌱 I’m currently learning **Ansible, AI/ML, Golang** 
 
