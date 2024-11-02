@@ -24,7 +24,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![Anandu's Skills](https://skillicons.dev/icons?i=python,js,ts,django,nodejs,fastapi,nestjs,aws,docker,linux,mongodb,spring,firebase,gcp,postgres,cpp,express,react,tensorflow,git&theme=dark)](https://skillicons.dev)
+[![Anandu's Skills](https://skillicons.dev/icons?i=ts,python,rust,golang,spring,django,nodejs,fastapi,nestjs,postgres,aws,docker,linux,mongodb,firebase,gcp,cpp,express,react,tensorflow,git&theme=dark)](https://skillicons.dev)
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandukch&show_icons=true&locale=en&layout=compact&theme=dark" alt="anandukch" />
