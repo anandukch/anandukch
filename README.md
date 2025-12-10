@@ -9,6 +9,9 @@ https://tryreindeer.com
 **Nodal** — Workflow + API automation platform  
 https://getnodal.space  
 
+### 🌐 Website
+https://anandu.xyz
+
 ### 📬 Contact
 
 <a href="mailto:anandukch@gmail.com">
