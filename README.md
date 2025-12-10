@@ -3,10 +3,10 @@
 I'm a builder focused on creating tools that make developers faster and more productive.
 
 ### 🚀 What I'm building
-**Reindeer** — AI-powered content generation for teams  
+**Reindeer** — Cursor for databases  
 https://tryreindeer.com  
 
-**Nodal** — Workflow + API automation platform  
+**Nodal** — No-code form backend that converts any website form into automated workflows with built-in logic and actions 
 https://getnodal.space  
 
 ### 🌐 Website
